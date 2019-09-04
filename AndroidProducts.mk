@@ -15,6 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cheeseburger.mk
+    $(LOCAL_DIR)/aosp_cheeseburger.mk
+
 COMMON_LUNCH_CHOICES := \
     aosp_cheeseburger-userdebug
